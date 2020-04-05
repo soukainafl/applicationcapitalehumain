@@ -1,0 +1,42 @@
+[
+  {
+       "id_dep": 1,
+       "Matricule": "#1",
+       "nom": "ocsfoot",
+       "Prenom": "EFB",
+       "Age": "34",
+       "salaire": "39999"
+  },
+  {
+       "id_dep": 2,
+       "Matricule": "#2",
+       "nom": "ocsfoot",
+       "Prenom": "EFB",
+       "Age": "34",
+       "salaire": "39999"
+  },
+  {
+       "id_dep":3 ,
+       "Matricule": "#3",
+       "nom": "ABD",
+       "Prenom": "RHN",
+       "Age": "23",
+       "salaire": "10000 DH"
+  },
+  { 
+       "id_dep":4,
+       "Matricule": "#4",
+       "nom": "USA",
+       "Prenom": "yassine",
+       "Age": "20ans",
+       "salaire": "39999"
+  },
+  {    
+       "id_dep": 5,
+       "Matricule": "#5",
+       "nom": "salim",
+       "Prenom": "salim",
+       "Age": "25 ans",
+       "salaire": "3000"
+  }
+]
