@@ -43,7 +43,7 @@ app.get('/departement', (req, res) => {
 
    });
 });
-
+ // ajouter salaires
 app.post('/salaire',function(req, res){
     var id_dep = req.body.id_dep;
     var Matricule = req.body.Matricule;
